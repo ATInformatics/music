@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://music.atinformatics.com/sitemap.xml
